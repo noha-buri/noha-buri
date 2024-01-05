@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noha-buri&label=Profile%20views&color=0e75b6&style=flat" alt="noha-buri" /> </p>
 
